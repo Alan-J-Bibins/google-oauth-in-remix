@@ -2,6 +2,14 @@
 
 This is just a default remix project made using `npx create-remix@latest`, I have not changed anything from the default project except add a few files to get oauth running.
 
+## Packages:
+
+Install `remix-auth` and `remix-auth-google`
+
+```sh
+npm install remix-auth remix-auth-google
+```
+
 ## Env
 
 ```sh
